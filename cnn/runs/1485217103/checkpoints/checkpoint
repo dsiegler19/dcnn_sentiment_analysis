@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/dsiegler19/PycharmProjects/ASPResearch/env/src/sentiment_analysis/cnn/runs/1485217103/checkpoints/model-30200"
+all_model_checkpoint_paths: "/Users/dsiegler19/PycharmProjects/ASPResearch/env/src/sentiment_analysis/cnn/runs/1485217103/checkpoints/model-29800"
+all_model_checkpoint_paths: "/Users/dsiegler19/PycharmProjects/ASPResearch/env/src/sentiment_analysis/cnn/runs/1485217103/checkpoints/model-29900"
+all_model_checkpoint_paths: "/Users/dsiegler19/PycharmProjects/ASPResearch/env/src/sentiment_analysis/cnn/runs/1485217103/checkpoints/model-30000"
+all_model_checkpoint_paths: "/Users/dsiegler19/PycharmProjects/ASPResearch/env/src/sentiment_analysis/cnn/runs/1485217103/checkpoints/model-30100"
+all_model_checkpoint_paths: "/Users/dsiegler19/PycharmProjects/ASPResearch/env/src/sentiment_analysis/cnn/runs/1485217103/checkpoints/model-30200"
